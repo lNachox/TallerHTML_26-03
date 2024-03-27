@@ -1,0 +1,17 @@
+.title {
+    background-color: yellow;
+    color: black;
+    border-bottom: 1px solid;
+    text-align: center;
+}
+
+.h2 {
+    background-color: yellow;
+    color: black;
+    border-bottom: 1px solid;
+    width: 70%;
+}
+
+.body {
+    border: 4ac6ac;
+}
